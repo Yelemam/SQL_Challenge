@@ -1,6 +1,8 @@
 # SQL_Challenge
 # Employee Database
 
+https://github.com/Yelemam/SQL_Challenge/blob/main/Employee_SQL/ERD_DIagram/Database.jpeg
+
 #Instruction
 
 Research about people whom the company employed during the 1980s and 

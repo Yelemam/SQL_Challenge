@@ -1,7 +1,7 @@
 # SQL_Challenge
 # Employee Database
 
-![Database](https://github.com/user-attachments/assets/99c310f4-2a23-4693-9019-76a0ab3f23fe)
+![database](https://github.com/user-attachments/assets/f44047a6-2e17-4486-aff6-f7cec40d1b6b)
 
 
 #Instruction

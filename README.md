@@ -1,7 +1,8 @@
 # SQL_Challenge
 # Employee Database
 
-https://github.com/Yelemam/SQL_Challenge/blob/main/Employee_SQL/ERD_DIagram/Database.jpeg
+![Database](https://github.com/user-attachments/assets/99c310f4-2a23-4693-9019-76a0ab3f23fe)
+
 
 #Instruction
 

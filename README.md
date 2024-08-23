@@ -16,7 +16,8 @@ CSV files were importated.
 Inspect the CSV files, and then sketch an Entity Relationship Diagram 
 of the tables. To create the ERD Diagram. The QuickDBD was used in this project.
 
-https://github.com/Yelemam/SQL_Challenge/blob/main/Employee_SQL/ERD_DIagram/ERD.png
+![ERD](https://github.com/user-attachments/assets/8a9db637-46d0-4745-854e-4dbfcf17e653)
+
 
 #Data Engineering
 

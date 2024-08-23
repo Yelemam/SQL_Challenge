@@ -19,7 +19,7 @@ of the tables. To create the ERD Diagram. The QuickDBD was used in this project.
 ![ERD](https://github.com/user-attachments/assets/8a9db637-46d0-4745-854e-4dbfcf17e653)
 
 
-#Data Engineering
+# Data Engineering
 
 1. Use the provided information to create a table schema for each of the six CSV files, and specify data types, primary keys, foreign keys, and other constraints.
 
@@ -41,12 +41,12 @@ of the tables. To create the ERD Diagram. The QuickDBD was used in this project.
 8.    List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).
 
 
-# List of Contents 
+# Table of Contents 
 
  1. employee_ERD.png: an image file of the ERD
  2. Employee_CreatingTable.sql: a .sql file for creating the tables
  3. Employee_Queries.sql: a .sql file of the queries
  4. Employee_creatingtable _importing_queries.sql: a complete .sql file with creating importaing and queries.
- 5. 8 .csv file for the output of each query.
- 6 2 ERD Diagrams and schema 
+ 5. Eight .csv file for the output of each query.
+ 6  Two ERD Diagrams and a schema 
  

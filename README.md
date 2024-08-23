@@ -43,10 +43,11 @@ of the tables. To create the ERD Diagram. The QuickDBD was used in this project.
 
 # Table of Contents 
 
- 1. employee_ERD.png: an image file of the ERD
+ 1. ERD.png: an image file of the ERD
  2. Employee_CreatingTable.sql: a .sql file for creating the tables
  3. Employee_Queries.sql: a .sql file of the queries
  4. Employee_creatingtable _importing_queries.sql: a complete .sql file with creating importaing and queries.
  5. Eight .csv file for the output of each query.
- 6  Two ERD Diagrams and a schema 
+ 6. ERD_schema. md : ERD Schema
+ 7. Six Data files .csv
  

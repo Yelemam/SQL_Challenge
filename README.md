@@ -4,7 +4,7 @@
 ![database](https://github.com/user-attachments/assets/f44047a6-2e17-4486-aff6-f7cec40d1b6b)
 
 
-#Instruction
+# Instruction
 
 Research about people whom the company employed during the 1980s and 
 1990s using the only six CSV files that remains of the employee database.

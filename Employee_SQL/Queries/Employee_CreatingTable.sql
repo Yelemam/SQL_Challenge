@@ -22,7 +22,7 @@ CREATE TABLE employees(
 );
 
 
--- The dept_emp table needs two primary keys are needed
+-- The dept_emp table needs two primary keys 
 CREATE TABLE dept_emp(
 	emp_no INT NOT NULL,
 	dept_no VARCHAR NOT NULL,
@@ -38,7 +38,7 @@ CREATE TABLE salaries(
 );
 
 
--- The dept_manager table needs two primary keys are needed
+-- The dept_manager table needs two primary keys 
 CREATE TABLE dept_manager(
 	dept_no VARCHAR NOT NULL,
 	emp_no INT NOT NULL,
